@@ -1,2 +1,2 @@
 # samcesa45.github.io
-React-Button-click-add-double-reset
+A simple shopping cart button templates
